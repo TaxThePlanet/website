@@ -205,7 +205,7 @@
   <li>Anyone who doesn’t have the luxury to “just save” 15%</li>
 </ul>
   <div style="text-align:center; font-size:0.85rem; padding: 1rem; margin-top: 2rem;">
-  If you believe any information here is outdated, inaccurate, or misleading, please <a href="https://github.com/yourusername/yourrepo/issues" target="_blank" style="color: var(--blue); font-weight: bold; text-decoration: none;">submit an issue on GitHub</a>.
+  If you believe any information here is outdated, inaccurate, or misleading, please <a href="https://github.com/TaxThePlanet/website/issues" target="_blank" style="color: var(--blue); font-weight: bold; text-decoration: none;">submit an issue on GitHub</a>.
 </div>
 </section>
   
